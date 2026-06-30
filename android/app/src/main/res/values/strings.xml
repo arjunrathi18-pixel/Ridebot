@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RideBot</string>
+    <string name="accessibility_service_description">RideBot Rapido, Ola, Uber rides automatically accept karta hai aapke filters ke according</string>
+</resources>
